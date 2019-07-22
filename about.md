@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software developer currently working at
+[Skycatch](www.skycatch.com) helping create a data generation solution
+that involves aerial imaging with drones.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pabloharomunoz@gmail.com](mailto:pabloharomunoz@gmail.com)
